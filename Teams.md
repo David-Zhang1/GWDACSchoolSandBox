@@ -16,7 +16,7 @@ Teams (add your team name below):
 
 (6) Group 6th, leader: ; members:
 
-(7) Group 7th, leader: ; members:
+(7) Group 7th, leader: David; members:
 
 
 
